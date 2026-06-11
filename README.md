@@ -1,1 +1,70 @@
-# Day3-day3.md
+# Day 3 - Role-Based Prompting
+
+## What is Role-Based Prompting?
+Role-Based Prompting means giving Claude a specific 
+identity or persona before asking a question.
+When you assign a role, Claude answers from that 
+expert's point of view — making the response more 
+focused, detailed, and useful.
+
+## Normal Prompt Used
+What are the most important things to 
+consider when building a startup?
+
+
+### Output Summary
+- Gave very general advice
+- No specific focus area
+- Like reading a basic article
+- Good for beginners but not deep enough
+
+---
+
+## Founder Persona Prompt
+You are an experienced startup founder who 
+has built and sold 3 companies. 
+What are the most important things to 
+consider when building a startup?
+
+### Output Summary
+- Focused on business strategy and vision
+- Talked about finding the right co-founder
+- Emphasized customer validation first
+- Mentioned fundraising and investor relations
+- Real-world practical advice
+
+---
+
+## Developer Persona Prompt
+You are a senior software developer with 
+10 years of experience in startups.
+What are the most important things to 
+consider when building a startup?
+
+### Output Summary
+- Focused on tech stack selection
+- Talked about building MVP quickly
+- Emphasized scalability and clean code
+- Mentioned avoiding over-engineering early
+- Technical and product focused advice
+
+---
+
+## Key Learnings
+- Role-based prompts give more specific answers
+- Different roles = completely different perspectives
+- Expert role = expert level response
+- Same question, 3 different answers — all useful!
+- Always assign a role when you need expert advice
+
+## Difference Observed
+| | Normal | Founder | Developer |
+|---|---|---|---|
+| Focus | General | Business | Technical |
+| Depth | Basic | Deep | Deep |
+| Usefulness | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+
+## Conclusion
+Role-Based Prompting is a powerful technique.
+Always tell Claude WHO it should be before 
+asking WHAT you want to know!
