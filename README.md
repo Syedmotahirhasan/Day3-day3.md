@@ -70,6 +70,10 @@ consider when building a startup?
 | Focus | General | Business | Technical |
 | Depth | Basic | Deep | Deep |
 | Usefulness | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+<img width="1005" height="687" alt="image" src="https://github.com/user-attachments/assets/7df8c31c-5d8d-4d0d-97c8-2fc19ea90c82" />
+
+<img width="686" height="482" alt="image" src="https://github.com/user-attachments/assets/76fd7245-0d37-41d8-854c-08f21546d5a7" />
+
 
 ## Conclusion
 Role-Based Prompting is a powerful technique.
