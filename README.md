@@ -10,6 +10,8 @@ focused, detailed, and useful.
 ## Normal Prompt Used
 What are the most important things to 
 consider when building a startup?
+<img width="882" height="767" alt="Screenshot 2026-06-11 145656" src="https://github.com/user-attachments/assets/483acf48-d8f1-4cb5-868d-96452a6fd7d8" />
+
 
 
 ### Output Summary
@@ -26,6 +28,9 @@ has built and sold 3 companies.
 What are the most important things to 
 consider when building a startup?
 
+<img width="1078" height="902" alt="Screenshot 2026-06-11 145811" src="https://github.com/user-attachments/assets/40d34726-6714-4c24-97f1-9ec00d818b40" />
+
+
 ### Output Summary
 - Focused on business strategy and vision
 - Talked about finding the right co-founder
@@ -40,6 +45,8 @@ You are a senior software developer with
 10 years of experience in startups.
 What are the most important things to 
 consider when building a startup?
+
+<img width="1028" height="876" alt="Screenshot 2026-06-11 150023" src="https://github.com/user-attachments/assets/f0c88245-5e27-45f8-a429-66171a8664f9" />
 
 ### Output Summary
 - Focused on tech stack selection
